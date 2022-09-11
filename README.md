@@ -1,1 +1,2 @@
-# Advanced-Encryption-Standard-AES-
+This project aims to implement AES-128 encryption algorithm. Only the counter (CTR) mode of operation of the AES algorithm is implemented. The proposed architecture have been implemented using Verilog HDL language. Then, it was simulated on ModelSim Simulation tool to verify the functional simulation of the architecture. The main inputs are topcipher_data_test_inputs and topcipher_key_test_inputs text files while the output is topcipher_test_outputs text file. The proposed architecture has achieved a maximum frequency of 227 MHz. 
+Keywords: Encryption, AES-128, Performance Analysis, Functional Simulation.
