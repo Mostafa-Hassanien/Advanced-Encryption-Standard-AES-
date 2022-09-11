@@ -1,0 +1,1 @@
+vlog .\key_xor.v .\add_round_key.v .\aes_top_module.v .\fsm_controller.v .\mux2X1.v .\pointer_counter.v .\ram.v .\rom.v .\SBox.v .\ram_sub_box.v .\shift_rows.v  .\fixed_matrix_rom.v .\mix_columns.v .\mix_columns_pointer.v .\column_reg_file.v .\round_counter.v .\ram_key_matrix.v .\ciphertext_pointer.v .\ram_round_key.v .\print_ciphertext.v
